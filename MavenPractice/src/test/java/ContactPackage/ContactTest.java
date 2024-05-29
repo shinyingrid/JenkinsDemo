@@ -19,4 +19,6 @@ public class ContactTest
 		System.out.println("deletContTest==>2");
 		System.out.println("password is :"+PASSWORD);
 	}
+	
+	//updated lombok dependency
 }
