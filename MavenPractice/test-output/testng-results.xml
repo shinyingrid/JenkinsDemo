@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-05-28T12:19:35 IST" name="Default suite" finished-at="2024-05-28T12:19:35 IST" duration-ms="77">
+    <groups>
+    </groups>
+    <test started-at="2024-05-28T12:19:35 IST" name="Default test" finished-at="2024-05-28T12:19:35 IST" duration-ms="77">
+      <class name="OrgPackage.OrgTest">
+        <test-method signature="createOrgTest()[pri:0, instance:OrgPackage.OrgTest@3b0fe47a]" started-at="2024-05-28T12:19:35 IST" name="createOrgTest" finished-at="2024-05-28T12:19:35 IST" duration-ms="11" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createOrgTest -->
+        <test-method signature="deleteOrgTest()[pri:0, instance:OrgPackage.OrgTest@3b0fe47a]" started-at="2024-05-28T12:19:35 IST" name="deleteOrgTest" finished-at="2024-05-28T12:19:35 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteOrgTest -->
+      </class> <!-- OrgPackage.OrgTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
